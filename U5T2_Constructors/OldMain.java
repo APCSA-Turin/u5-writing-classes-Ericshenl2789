@@ -1,4 +1,4 @@
-public class Main {
+public class OldMain {
     public static void main(String[] args) {
       Student alan = new Student("Alan Turing", 11, "Brooklyn Tech");
       Student geena = new Student("Geena Davis", 7, "Academy Middle School");
